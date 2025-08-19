@@ -1,0 +1,2 @@
+# Bilal--1st-repositery
+This is my first repositary
